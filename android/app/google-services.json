@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227810697150",
+    "project_id": "esperanza-4229e",
+    "storage_bucket": "esperanza-4229e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227810697150:android:849f17a6eb18c7106b63ef",
+        "android_client_info": {
+          "package_name": "com.eadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227810697150-6n6dme3q6iv0jqotpmlam8g04cvfjo4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCekLOA4JHK7uXMbp9cO5mPTe26vrr_mqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227810697150-6n6dme3q6iv0jqotpmlam8g04cvfjo4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
